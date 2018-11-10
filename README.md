@@ -1,6 +1,6 @@
 # Proyectos de vida
 Life : Enjoying learning
--
+
 <p>Cual es su prioridad de vida actual :</p>
 <p>1.Hogar</p>
 <p>2.Familia</p>
@@ -13,5 +13,6 @@ Life : Enjoying learning
 <p>3.Emprendimiento</p>
 <p>4.Enganche laboral</p>
 <p>5.Actualización profesional</p>
--
+
 exit
+EOF
